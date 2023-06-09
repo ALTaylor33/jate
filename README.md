@@ -3,7 +3,7 @@
 Jate a text editor app that works as a pwa.
 https://holy-text-jate.herokuapp.com/ 
  ## Instructions
-hit the install button on the top left to download it to your desktop
-Uses IndexedDB to create an object store and includes both GET and PUT methods
-The application works without an internet connection
-Automatically saves content inside the text editor when the DOM window is unfocused
+Hit the install button on the top left to download it to your desktop.
+Uses IndexedDB to create an object store and includes both GET and PUT methods.
+The application works without an internet connection.
+Automatically saves content inside the text editor when the DOM window is unfocused.
